@@ -1,0 +1,29 @@
+# === Deep Learning / Data Artifacts ===
+data/
+models/checkpoints/
+models/final/
+*.onnx
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# === Python / Environment ===
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+build/
+dist/
+*.egg-info/
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# === OS & IDEs ===
+.DS_Store
+.vscode/
+.idea/
+*.log
