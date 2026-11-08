@@ -1,0 +1,1 @@
+Before answering any query or writing code, you must read and follow the instructions in skills/DL_research_and_training_assistant.md and skills/data_pipeline_assistant.md.
